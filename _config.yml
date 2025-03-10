@@ -1,21 +1,16 @@
 # Site settings
-title: Emily McLean
-email: emilymcleandeveloper@gmail.com
+title: Sinatra for Canberra
 author: Emily McLean
-url: https://emilym.cl
+url: https://sinatra-transport.com
 
 homepage_image: cutout.jpg
 
-keywords: Emily McLean, software, android, developer, engineer
-description: The website of Emily McLean
+keywords: Sinatra, MyWay+, MyWay, Canberra
+description: Sinatra is a companion app for the Canberra MyWay+ network made by locals for locals.
 locale: en_AU
 
 theme:
   primary_color: fac1be
-
-social:
-  mastodon: https://blahaj.zone/@emily
-
 
 exclude: [.bundle, .vendor, .bin, starving-artist.gemspec, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, starving-artist-jekyll-theme-*.gem]
 
