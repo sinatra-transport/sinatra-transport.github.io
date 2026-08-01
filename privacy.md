@@ -1,5 +1,5 @@
 ---
-title: Sinatra / Privacy Policy
+title: Privacy Policy
 layout: default_sinatra
 ---
 # Privacy Policy

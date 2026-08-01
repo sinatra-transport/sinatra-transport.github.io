@@ -1,5 +1,5 @@
 ---
-title: Sinatra / Terms & Conditions
+title: Terms & Conditions
 layout: default_sinatra
 ---
 # Terms & Conditions
